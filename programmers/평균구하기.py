@@ -5,4 +5,3 @@ def solution(arr):
     average=sum/len(arr)
         
     return average
-    
